@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ayang101/ayang101.github.io/static/css/main.7e30dd1e.css",
-    "main.js": "/ayang101/ayang101.github.io/static/js/main.471a766b.js",
-    "static/media/profile_img.png": "/ayang101/ayang101.github.io/static/media/profile_img.b4732941765c27c16d6f.png",
-    "static/media/pcc_logo.png": "/ayang101/ayang101.github.io/static/media/pcc_logo.931e5019874b7c8584f3.png",
-    "static/media/linkedin-logo.png": "/ayang101/ayang101.github.io/static/media/linkedin-logo.ba884e1f9ad4362348c1.png",
-    "static/media/cal_poly_logo.png": "/ayang101/ayang101.github.io/static/media/cal_poly_logo.dc8b0558ed038839d970.png",
-    "index.html": "/ayang101/ayang101.github.io/index.html",
-    "main.7e30dd1e.css.map": "/ayang101/ayang101.github.io/static/css/main.7e30dd1e.css.map",
-    "main.471a766b.js.map": "/ayang101/ayang101.github.io/static/js/main.471a766b.js.map"
+    "main.css": "/static/css/main.7e30dd1e.css",
+    "main.js": "/static/js/main.718f032a.js",
+    "static/media/profile_img.png": "/static/media/profile_img.b4732941765c27c16d6f.png",
+    "static/media/pcc_logo.png": "/static/media/pcc_logo.931e5019874b7c8584f3.png",
+    "static/media/linkedin-logo.png": "/static/media/linkedin-logo.ba884e1f9ad4362348c1.png",
+    "static/media/cal_poly_logo.png": "/static/media/cal_poly_logo.dc8b0558ed038839d970.png",
+    "index.html": "/index.html",
+    "main.7e30dd1e.css.map": "/static/css/main.7e30dd1e.css.map",
+    "main.718f032a.js.map": "/static/js/main.718f032a.js.map"
   },
   "entrypoints": [
     "static/css/main.7e30dd1e.css",
-    "static/js/main.471a766b.js"
+    "static/js/main.718f032a.js"
   ]
 }
